@@ -51,7 +51,7 @@
 %
 \RequirePackage[dvipsnames]{xcolor}
 %+中文
-\RequirePackage{CJK}
+%\RequirePackage{CJK}
 % Needed to make fixed length table
 \RequirePackage{array}
 % Needed to handle list environment
